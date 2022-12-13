@@ -1,0 +1,236 @@
+﻿body {
+    background-color: #080710;
+}
+
+div {
+    color: white
+}
+
+h1 {
+    text-align: center;    
+}
+
+.background {
+    width: 430px;
+    height: 520px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+
+form {
+    height: 560px;
+    width: 600px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+}
+
+.label {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    left: 30px;
+    top: 145px;
+}
+
+.label2 {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    position: absolute;
+    left: 400px;
+    top: 145px;
+}
+
+.label3 {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    position: absolute;
+    left: 30px;
+    top: 290px;
+}
+
+.label4 {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    position: absolute;
+    left: 400px;
+    top: 290px;
+}
+
+.label5 {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    position: absolute;
+    left: 30px;
+    top: 435px;
+}
+
+.label6 {
+    display: block;
+    flex-direction: row;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: 500;
+    width: 30%;
+    position: absolute;
+    left: 400px;
+    top: 435px;
+}
+
+.text {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 30px;
+    top: 175px;
+}
+
+.text2 {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 400px;
+    top: 175px;
+}
+
+.text3 {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 30px;
+    top: 320px;
+}
+
+.text4 {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 400px;
+    top: 320px;
+}
+
+.text5 {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 30px;
+    top: 455px;
+}
+
+.text6 {
+    display: block;
+    flex-direction: row;
+    height: 50px;
+    width: 30%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e5e5;
+    position: absolute;
+    left: 400px;
+    top: 455px;
+}
+
+.button {
+    margin-top: 150px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 26px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.link {
+    margin-left: 15px;
+    font-size: 24px;
+    position:absolute;
+    top:625px;
+    left:380px;
+}
+
+.labellink {
+    color: red;
+    font-size: 24px;
+    position: absolute;
+    top:625px;
+    left:90px;
+}
